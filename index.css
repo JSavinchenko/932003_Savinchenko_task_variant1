@@ -70,14 +70,16 @@ header {
     padding: 30px 20px;
 }
 
-/* .right li {
-    border-left: 1ps solid red;
-    /* height: 100%; 
-}  */
+.right_line {
+    border-left: 2px solid red;
+    height: 98%;
+    margin-right: 20px;
+}
 
 li {
     list-style-type: none;
     padding: 7px 0;
+    padding-left: 30px;
 }
 
 .right li:hover {
